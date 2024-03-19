@@ -80,7 +80,8 @@ def policy_iteration(P, gamma=1.0,theta=1e-10):
 ![image](https://github.com/Saibandhavi75/policy-iteration-algorithm/assets/94208895/6f7c9235-6d0f-4c13-afd4-f954e65ef57a)
 ## Optimal Value Function:
 
-![image](https://github.com/Saibandhavi75/policy-iteration-algorithm/assets/94208895/8cab8bb2-4a76-4bf5-9513-b77aef4de79e)
+![image](https://github.com/Pallavi-Raveendranadreddy/policy-iteration-algorithm/assets/94294872/796eade5-b5ce-4efa-8154-61be94277e89)
+
 
 ## Success Rate for Optimal Policy:
 
